@@ -24,8 +24,9 @@ header {
 
 .logo {
   color: MediumAquamarine;
-  display: inline-flex;
+  display: flex;
   align-items: center;
+  padding-left: 30px;
 }
 
 nav {
